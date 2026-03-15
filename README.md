@@ -1,6 +1,5 @@
 # Real-Time Multi-Camera Crowd Behavior Analysis
 ## Overview
-
   This project implements a real-time intelligent surveillance system that analyzes crowd behavior using multiple camera feeds. The system detects crowd density, motion patterns, and abnormal group behavior using computer vision and deep learning techniques.
 
 The system processes multiple video streams simultaneously and provides visual alerts, heatmaps, and behavior classification through a monitoring dashboard.
