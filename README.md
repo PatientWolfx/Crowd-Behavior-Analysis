@@ -4,7 +4,7 @@
 
 The system processes multiple video streams simultaneously and provides visual alerts, heatmaps, and behavior classification through a monitoring dashboard.
 
-Key Features
+## Key Features
 
 Multi-camera video monitoring
 
@@ -22,7 +22,7 @@ Alert generation for abnormal behavior
 
 Web dashboard using FastAPI
 
-System Architecture
+## System Architecture
 Video Input (Multiple Cameras)
         ↓
 Frame Preprocessing
@@ -40,7 +40,7 @@ Heatmap Visualization
 Alert Generation
         ↓
 Web Dashboard (FastAPI)
-Technologies Used
+## Technologies Used
 Category	Technology
 Programming Language	Python
 Computer Vision	OpenCV
@@ -50,7 +50,7 @@ Backend	FastAPI
 Frontend	HTML + CSS
 Visualization	Heatmaps
 Deployment	Docker (optional)
-Project Workflow
+## Project Workflow
 
 Capture video from multiple cameras
 
@@ -68,7 +68,7 @@ Generate alerts and visual heatmaps
 
 Display results on the monitoring dashboard
 
-Running the Project
+## Running the Project
 Step 1
 
 Clone the repository
@@ -89,7 +89,7 @@ Step 4
 Open dashboard
 
 http://127.0.0.1:8000
-Example Output
+## Example Output
 
 Dashboard displays:
 
@@ -103,7 +103,7 @@ Alert notifications
 
 Heatmap visualization
 
-Applications
+## Applications
 
 This system can be used in:
 
@@ -119,7 +119,7 @@ Public events
 
 Smart city surveillance
 
-Future Improvements
+## Future Improvements
 
 CNN-LSTM spatio-temporal modeling
 
@@ -131,6 +131,6 @@ Alert notification system
 
 Cloud deployment
 
-Author
+## Author
 
 Data Science Project by Abubakkar Sithik
