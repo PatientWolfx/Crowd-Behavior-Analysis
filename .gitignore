@@ -1,11 +1,25 @@
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-.env
+# Virtual environment
+venv/
+env/
 
-data/*.mp4
+# VSCode
+.vscode/
 
-alerts/
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
 logs/
+
+# Alerts
+alerts/
+
+# Videos
+data/*.mp4
