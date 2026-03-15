@@ -23,27 +23,21 @@ Alert generation for abnormal behavior
 Web dashboard using FastAPI
 
 ## System Architecture
-Video Input (Multiple Cameras)  ↓
+Video Input (Multiple Cameras)
+        ↓
 Frame Preprocessing
-
         ↓
 Human Detection (YOLO)
-
         ↓
 Crowd Density Estimation
-
         ↓
 Optical Flow Motion Analysis
-
         ↓
 Crowd Behavior Detection
-
         ↓
 Heatmap Visualization
-
         ↓
 Alert Generation
-
         ↓
 Web Dashboard (FastAPI)
 ## Technologies Used
