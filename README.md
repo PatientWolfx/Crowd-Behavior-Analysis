@@ -40,6 +40,7 @@ Heatmap Visualization
 Alert Generation
         ->
 Web Dashboard (FastAPI)
+
 ## Technologies Used
 Category	Technology
 Programming Language	Python
@@ -50,6 +51,7 @@ Backend	FastAPI
 Frontend	HTML + CSS
 Visualization	Heatmaps
 Deployment	Docker (optional)
+
 ## Project Workflow
 
 Capture video from multiple cameras
@@ -69,22 +71,22 @@ Generate alerts and visual heatmaps
 Display results on the monitoring dashboard
 
 ## Running the Project
-Step 1
+### Step 1
 
 Clone the repository
 
 git clone https://github.com/yourusername/crowd-behavior-analysis.git
-Step 2
+### Step 2
 
 Install dependencies
 
 pip install -r requirements.txt
-Step 3
+### Step 3
 
 Run the server
 
 uvicorn main:app --reload
-Step 4
+### Step 4
 
 Open dashboard
 
