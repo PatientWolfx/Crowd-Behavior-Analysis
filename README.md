@@ -24,8 +24,7 @@ Web dashboard using FastAPI
 
 ## System Architecture
 Video Input (Multiple Cameras)
-
-        ↓
+        /n↓
 Frame Preprocessing
 
         ↓
