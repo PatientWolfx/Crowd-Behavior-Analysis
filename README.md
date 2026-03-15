@@ -23,8 +23,7 @@ Alert generation for abnormal behavior
 Web dashboard using FastAPI
 
 ## System Architecture
-Video Input (Multiple Cameras) 
-        ↓
+Video Input (Multiple Cameras)  ↓
 Frame Preprocessing
 
         ↓
